@@ -7,3 +7,6 @@
 target/
 node_modules/
 *.log
+
+# Java KeyStore files
+*.jks
